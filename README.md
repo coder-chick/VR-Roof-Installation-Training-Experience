@@ -19,13 +19,10 @@ The **VR Roof Training App** provides an engaging and interactive platform to le
    - Ensures only the correct shingle can be placed in the right spot and sequence.  
    - Provides real-time feedback to help roofers perfect their skills. ✅
 
-3. **Dynamic Weather Simulation**  
-   - Toggle between sunny skies 🌞 and rainy weather 🌧️ with realistic soundscapes and haptic feedback.
-
-4. **Realistic Environments and Lighting**  
+3. **Realistic Environments and Lighting**  
    - Experience lifelike roof settings with advanced lighting effects for an authentic feel. 💡🏡
 
-5. **Gamified Learning**  
+4. **Gamified Learning**  
    - Navigate the roof, solve challenges, and level up your roofing expertise. 🎮🏆
 
 ---
@@ -49,32 +46,20 @@ VR-Roof-Training-App/ ├── Assets/ # Unity assets and 3D models ├── S
 
 ---
 
-
-**⚠️ Note**: Due to proprietary restrictions, the source code cannot be shared publicly.
-
----
-
 ## **🎥 Demo**
 
 Check out the full demo on YouTube! 🎥👇  
-
-**[Placeholder for YouTube Video Embed]**  
-*(Replace this with an actual YouTube video link or thumbnail image)*  
-[![Watch the VR Roof Training Demo](media/demo-thumbnail.png)]([https://youtu.be/your-demo-link](https://www.youtube.com/watch?v=3A-XUTqAKjc))
+[![Watch the VR Roof Training Demo](VR Roof Training Demo.png)]([https://youtu.be/your-demo-link](https://www.youtube.com/watch?v=3A-XUTqAKjc))
 
 ---
 
 ## **📸 Screenshots**
 
-### Roof Navigation in Action 🏠  
-**[Placeholder for Screenshot 1]**  
-*(Replace this with a high-quality screenshot of the roof navigation feature)*  
-![Roof Navigation Screenshot](media/navigation-screenshot.png)
+### Roof Training in Action 🏠  
+![Roof Navigation Screenshot](VR Training Thumbnail.png)
 
 ### Shingle Validation Feature ✅  
-**[Placeholder for Screenshot 2]**  
-*(Replace this with a screenshot showcasing the shingle validation system)*  
-![Shingle Validation Screenshot](media/shingle-validation.png)
+![Shingle Validation Screenshot](VRTrainingValidation.png)
 
 ---
 
