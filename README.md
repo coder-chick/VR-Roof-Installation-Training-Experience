@@ -38,8 +38,15 @@ The **VR Roof Training App** provides an engaging and interactive platform to le
 ---
 
 ## **📂 Repository Structure**
-VR-Roof-Training-App/ ├── Assets/ # Unity assets and 3D models ├── Scripts/ # C# scripts for VR functionality ├── Textures/ # High-quality textures for environment ├── Sounds/ # Sound effects for weather and navigation ├── Docs/ # Documentation and project reports └── README.md # This file
-
+```
+VR-Roof-Experience/
+├── Assets/             # Unity assets and 3D models
+├── Scripts/            # C# scripts for VR functionality
+├── Textures/           # High-quality textures for environment
+├── Sounds/             # Sound effects for weather and navigation
+├── Docs/               # Documentation and project reports
+└── README.md           # This file
+```
 ---
 
 **⚠️ Note**: Due to proprietary restrictions, the source code cannot be shared publicly.
@@ -49,7 +56,7 @@ VR-Roof-Training-App/ ├── Assets/ # Unity assets and 3D models ├── S
 ## **🎥 Demo**
 
 Check out the full demo on YouTube! 🎥👇  
-[![Watch the VR Roof Training Demo](VR Roof Training Demo.png)]([https://youtu.be/your-demo-link](https://www.youtube.com/watch?v=3A-XUTqAKjc))
+[![Watch the VR Roof Training Demo](VR Roof Training Demo.png)](https://www.youtube.com/watch?v=3A-XUTqAKjc)
 
 ---
 
