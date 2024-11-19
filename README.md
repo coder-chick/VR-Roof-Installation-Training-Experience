@@ -56,7 +56,9 @@ VR-Roof-Experience/
 ## **🎥 Demo**
 
 Check out the full demo on YouTube! 🎥👇  
-[![Watch the VR Roof Training Demo](VR Roof Training Demo.png)](https://www.youtube.com/watch?v=3A-XUTqAKjc)
+[![Watch the VR Roof Training Demo](VRRoofTrainingDemo.png)](https://www.youtube.com/watch?v=3A-XUTqAKjc)
+[![Watch the VR Roof Experience Demo](VRRoofThumbnail.png)](https://www.youtube.com/watch?v=HuTwHA8YWAY)
+
 
 ---
 
